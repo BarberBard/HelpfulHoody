@@ -17,7 +17,7 @@
   "dependencies": {
     "eris": "^0.11.2",
     "humanize-duration": "^3.23.1",
-    "ini": "^1.3.5",
+    "ini": "^1.3.6",
     "json5": "^2.1.3",
     "knex": "^0.20.15",
     "knub-command-manager": "^6.1.0",
